@@ -1,0 +1,486 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tsParticles demo project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsParticles 404 templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T16:15:55Z",
+            "owner": "tsparticles",
+            "repo": "404-templates",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsParticles Authentication template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-10-13T18:26:28Z",
+            "owner": "tsparticles",
+            "repo": "auth-template",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsParticles Developer landing page template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-10-11T08:16:10Z",
+            "owner": "tsparticles",
+            "repo": "landing-page-template",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bonn333 Portfolio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-02-21T02:25:33Z",
+            "owner": "Bonn333",
+            "repo": "personal-website",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsParticles Glassmorphism Authentication template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-12T22:12:32Z",
+            "owner": "tsparticles",
+            "repo": "glass-auth-template",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsParticles Portfolio Website by vishal-kumar-saw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-10-19T17:48:49Z",
+            "owner": "vishal-kumar-saw",
+            "repo": "tsParticles-Portfolio",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeDoc Particles Theme",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Vanilla JavaScript / Plain HTML ()"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React tsParticles demo project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React tsParticles Create React App template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React tsParticles TypeScript Create React App template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tailwind Fancy Tabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-31T15:09:06Z",
+            "owner": "mattrothenberg",
+            "repo": "tailwind-fancy-tab",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React tsParticles Glassmorphism Authentication template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T08:32:12Z",
+            "owner": "tsparticles",
+            "repo": "react-glass-auth-template",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Resume Template by kien-dang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-21T10:46:17Z",
+            "owner": "kien-dang",
+            "repo": "react-resume-template",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatsby tsParticles Landing Page Starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T22:12:30Z",
+            "owner": "tsparticles",
+            "repo": "gatsby-landing-page-starter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React tsParticles Landing Page template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T18:09:58Z",
+            "owner": "tsparticles",
+            "repo": "react-landing-page-template",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React tsParticles Authentication template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T08:58:20Z",
+            "owner": "tsparticles",
+            "repo": "react-auth-template",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Portfolio Page by th1rst",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-07T19:59:23Z",
+            "owner": "th1rst",
+            "repo": "personal-portfolio-page",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HotCode Website",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-03-12T12:13:59Z",
+            "owner": "gustavomorinaga",
+            "repo": "HotCode",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Template by ash-xyz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-04T20:37:43Z",
+            "owner": "ash-xyz",
+            "repo": "webpage",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Landing Page by AhsanEhtesham",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-10T20:18:53Z",
+            "owner": "Ahsan-Ehtesham",
+            "repo": "React-landing-page",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Notes Keeper App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-13T16:01:41Z",
+            "owner": "iMohitPant",
+            "repo": "keeper",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Portfolio by RajceP",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "React Landing Page by FaizaAbdullah-code",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "React JS ()"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vue 2.x tsParticles demo project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue 2.x tsParticles Authentication template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-12T03:31:21Z",
+            "owner": "tsparticles",
+            "repo": "vue-auth-template",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Vue JS 2.x ()"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vue 3.x tsParticles demo project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue 3.x tsParticles Authentication template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-11T22:45:35Z",
+            "owner": "tsparticles",
+            "repo": "vue3-auth-template",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue 3.x tsParticles Personal Portfolio Website by vishal-kumar-saw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-10-20T09:24:11Z",
+            "owner": "vishal-kumar-saw",
+            "repo": "Personal-Website",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Vue JS 3.x ()"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Angular tsParticles demo project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular tsParticles Authentication template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-30T01:49:57Z",
+            "owner": "tsparticles",
+            "repo": "angular-auth-template",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Angular ()"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Svelte tsParticles demo project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte tsParticles Authentication template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-12T01:29:28Z",
+            "owner": "tsparticles",
+            "repo": "svelte-auth-template",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Svelte ()"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:03.339Z",
+    "original_repository": "tsparticles/templates",
+    "original_repository_sha": "3788a7b0cae8fb20cc7f6b9d45029a186d5a0f2d",
+    "enhanced_repository": "enhansome/enhansome-templates",
+    "enhanced_repository_description": null,
+    "title": "Awesome tsParticles Websites and Templates Collection with stars"
+  }
+}
