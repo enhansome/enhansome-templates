@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8952
+            "stars": 8953
           }
         },
         {
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-07-12T22:12:32Z",
+            "last_commit": "2026-08-14T19:50:53Z",
             "owner": "tsparticles",
             "repo": "glass-auth-template",
             "stars": 7
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8952
+            "stars": 8953
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8952
+            "stars": 8953
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8952
+            "stars": 8953
           }
         },
         {
@@ -205,7 +205,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T22:12:30Z",
+            "last_commit": "2026-08-14T20:13:38Z",
             "owner": "tsparticles",
             "repo": "gatsby-landing-page-starter",
             "stars": 13
@@ -338,7 +338,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8952
+            "stars": 8953
           }
         },
         {
@@ -349,7 +349,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-12T03:31:21Z",
+            "last_commit": "2026-08-14T20:56:23Z",
             "owner": "tsparticles",
             "repo": "vue-auth-template",
             "stars": 10
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8952
+            "stars": 8953
           }
         },
         {
@@ -383,7 +383,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-11T22:45:35Z",
+            "last_commit": "2026-08-14T19:29:26Z",
             "owner": "tsparticles",
             "repo": "vue3-auth-template",
             "stars": 14
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8952
+            "stars": 8953
           }
         },
         {
@@ -454,7 +454,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8952
+            "stars": 8953
           }
         },
         {
@@ -465,7 +465,7 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-08-12T01:29:28Z",
+            "last_commit": "2026-08-14T17:17:25Z",
             "owner": "tsparticles",
             "repo": "svelte-auth-template",
             "stars": 10
@@ -476,7 +476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:28:05.283Z",
+    "last_updated": "2026-08-15T10:58:09.167Z",
     "original_repository": "tsparticles/templates",
     "original_repository_sha": "3788a7b0cae8fb20cc7f6b9d45029a186d5a0f2d",
     "enhanced_repository": "enhansome/enhansome-templates",
