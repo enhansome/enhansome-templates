@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8954
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8954
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8954
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8954
           }
         },
         {
@@ -274,8 +274,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-04-04T20:37:43Z",
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T22:47:09Z",
             "owner": "ash-xyz",
             "repo": "webpage",
             "stars": 0
@@ -338,7 +338,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8954
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8954
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8954
           }
         },
         {
@@ -454,7 +454,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8954
           }
         },
         {
@@ -476,7 +476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:59:04.058Z",
+    "last_updated": "2026-08-17T11:02:19.387Z",
     "original_repository": "tsparticles/templates",
     "original_repository_sha": "3788a7b0cae8fb20cc7f6b9d45029a186d5a0f2d",
     "enhanced_repository": "enhansome/enhansome-templates",
