@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238514517,
             "language": "TypeScript",
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8956
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317553358,
             "language": "JavaScript",
             "last_commit": "2026-07-24T16:15:55Z",
             "owner": "tsparticles",
             "repo": "404-templates",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283241401,
             "language": "HTML",
             "last_commit": "2022-10-13T18:26:28Z",
             "owner": "tsparticles",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284060939,
             "language": "HTML",
             "last_commit": "2022-10-11T08:16:10Z",
             "owner": "tsparticles",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286546517,
             "language": "HTML",
             "last_commit": "2021-02-21T02:25:33Z",
             "owner": "Bonn333",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 407313622,
             "language": "HTML",
             "last_commit": "2026-08-14T19:50:53Z",
             "owner": "tsparticles",
@@ -94,24 +100,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 419029769,
             "language": "CSS",
             "last_commit": "2021-10-19T17:48:49Z",
             "owner": "vishal-kumar-saw",
             "repo": "tsParticles-Portfolio",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeDoc Particles Theme",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Vanilla JavaScript / Plain HTML ()"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -120,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238514517,
             "language": "TypeScript",
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8956
           }
         },
         {
@@ -134,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238514517,
             "language": "TypeScript",
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8956
           }
         },
         {
@@ -148,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238514517,
             "language": "TypeScript",
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8956
           }
         },
         {
@@ -162,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391380465,
             "language": "TypeScript",
             "last_commit": "2021-07-31T15:09:06Z",
             "owner": "mattrothenberg",
@@ -176,8 +181,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415367101,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T05:44:23Z",
+            "last_commit": "2026-08-18T16:57:08Z",
             "owner": "tsparticles",
             "repo": "react-glass-auth-template",
             "stars": 14
@@ -190,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288712879,
             "language": "TypeScript",
             "last_commit": "2022-08-21T10:46:17Z",
             "owner": "kien-dang",
@@ -204,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286772815,
             "language": "JavaScript",
             "last_commit": "2026-08-14T20:13:38Z",
             "owner": "tsparticles",
@@ -218,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284143822,
             "language": "JavaScript",
             "last_commit": "2026-07-24T18:09:58Z",
             "owner": "tsparticles",
@@ -232,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283291827,
             "language": "JavaScript",
             "last_commit": "2026-08-18T06:01:10Z",
             "owner": "tsparticles",
@@ -246,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311694662,
             "language": "JavaScript",
             "last_commit": "2021-02-07T19:59:23Z",
             "owner": "th1rst",
@@ -260,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289534711,
             "language": "CSS",
             "last_commit": "2023-03-12T12:13:59Z",
             "owner": "gustavomorinaga",
@@ -274,8 +286,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215808866,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T22:47:09Z",
+            "last_commit": "2026-08-19T03:18:05Z",
             "owner": "ash-xyz",
             "repo": "webpage",
             "stars": 0
@@ -288,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415689664,
             "language": "JavaScript",
             "last_commit": "2021-10-10T20:18:53Z",
             "owner": "Ahsan-Ehtesham",
@@ -302,30 +316,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381927800,
             "language": "JavaScript",
             "last_commit": "2021-10-13T16:01:41Z",
             "owner": "iMohitPant",
             "repo": "keeper",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "React Portfolio by RajceP",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "React Landing Page by FaizaAbdullah-code",
-          "description": null,
-          "children": []
         }
       ],
       "title": "React JS ()"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -334,11 +337,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238514517,
             "language": "TypeScript",
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8956
           }
         },
         {
@@ -348,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283439085,
             "language": "Vue",
             "last_commit": "2026-08-14T20:56:23Z",
             "owner": "tsparticles",
@@ -359,7 +364,7 @@
       "title": "Vue JS 2.x ()"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -368,11 +373,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238514517,
             "language": "TypeScript",
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8956
           }
         },
         {
@@ -382,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317348036,
             "language": "Vue",
             "last_commit": "2026-08-14T19:29:26Z",
             "owner": "tsparticles",
@@ -396,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 419263972,
             "language": "Vue",
             "last_commit": "2021-10-20T09:24:11Z",
             "owner": "vishal-kumar-saw",
@@ -407,7 +415,7 @@
       "title": "Vue JS 3.x ()"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -416,11 +424,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238514517,
             "language": "TypeScript",
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8956
           }
         },
         {
@@ -430,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283538593,
             "language": "HTML",
             "last_commit": "2026-07-30T01:49:57Z",
             "owner": "tsparticles",
@@ -441,7 +451,7 @@
       "title": "Angular ()"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -450,11 +460,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238514517,
             "language": "TypeScript",
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8956
           }
         },
         {
@@ -464,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283967942,
             "language": "Svelte",
             "last_commit": "2026-08-14T17:17:25Z",
             "owner": "tsparticles",
@@ -476,7 +488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:02:24.321Z",
+    "last_updated": "2026-08-19T11:01:38.083Z",
     "original_repository": "tsparticles/templates",
     "original_repository_sha": "3788a7b0cae8fb20cc7f6b9d45029a186d5a0f2d",
     "enhanced_repository": "enhansome/enhansome-templates",
