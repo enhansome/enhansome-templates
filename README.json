@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -485,10 +485,73 @@
         }
       ],
       "title": "Svelte ()"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jQuery tsParticles demo project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238514517,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:05:44Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8961
+          }
+        }
+      ],
+      "title": "jQuery ()"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Preact tsParticles demo project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238514517,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:05:44Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8961
+          }
+        }
+      ],
+      "title": "Preact JS ()"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Inferno tsParticles demo project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238514517,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:05:44Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8961
+          }
+        }
+      ],
+      "title": "Inferno JS ()"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:06:52.377Z",
+    "last_updated": "2026-08-24T14:49:58.856Z",
     "original_repository": "tsparticles/templates",
     "original_repository_id": 282751131,
     "original_repository_sha": "3788a7b0cae8fb20cc7f6b9d45029a186d5a0f2d",
