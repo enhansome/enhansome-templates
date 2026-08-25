@@ -390,7 +390,7 @@
             "archived": false,
             "id": 317348036,
             "language": "Vue",
-            "last_commit": "2026-08-21T17:30:34Z",
+            "last_commit": "2026-08-25T00:13:41Z",
             "owner": "tsparticles",
             "repo": "vue3-auth-template",
             "stars": 14
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:58.856Z",
+    "last_updated": "2026-08-25T06:34:18.401Z",
     "original_repository": "tsparticles/templates",
     "original_repository_id": 282751131,
     "original_repository_sha": "3788a7b0cae8fb20cc7f6b9d45029a186d5a0f2d",
