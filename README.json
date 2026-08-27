@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 286772815,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T20:13:38Z",
+            "last_commit": "2026-08-26T13:41:53Z",
             "owner": "tsparticles",
             "repo": "gatsby-landing-page-starter",
             "stars": 13
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         },
         {
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 283439085,
             "language": "Vue",
-            "last_commit": "2026-08-25T13:16:05Z",
+            "last_commit": "2026-08-26T13:58:29Z",
             "owner": "tsparticles",
             "repo": "vue-auth-template",
             "stars": 10
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         },
         {
@@ -390,7 +390,7 @@
             "archived": false,
             "id": 317348036,
             "language": "Vue",
-            "last_commit": "2026-08-25T00:13:41Z",
+            "last_commit": "2026-08-27T06:40:48Z",
             "owner": "tsparticles",
             "repo": "vue3-auth-template",
             "stars": 14
@@ -429,7 +429,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         },
         {
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 283967942,
             "language": "Svelte",
-            "last_commit": "2026-08-14T17:17:25Z",
+            "last_commit": "2026-08-26T18:55:32Z",
             "owner": "tsparticles",
             "repo": "svelte-auth-template",
             "stars": 10
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         }
       ],
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         }
       ],
@@ -543,7 +543,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8964
+            "stars": 8966
           }
         }
       ],
@@ -551,9 +551,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:07:27.787Z",
-    "original_repository": "tsparticles/templates",
-    "original_repository_id": 282751131,
+    "last_updated": "2026-08-27T12:09:28.201Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 282751131,
+      "language": null,
+      "last_commit": "2023-12-03T21:21:52Z",
+      "owner": "tsparticles",
+      "repo": "templates",
+      "stars": 80
+    },
     "original_repository_sha": "3788a7b0cae8fb20cc7f6b9d45029a186d5a0f2d",
     "enhanced_repository": "enhansome/enhansome-templates",
     "enhanced_repository_description": null,
