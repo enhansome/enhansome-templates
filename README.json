@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -26,12 +52,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles Auth Template for Websites",
+            "homepage": "https://tsparticles.github.io/404-templates/",
             "id": 317553358,
             "language": "JavaScript",
-            "last_commit": "2026-07-24T16:15:55Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:09:37Z",
+            "open_issues": 11,
             "owner": "tsparticles",
             "repo": "404-templates",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "404",
+              "404-errors",
+              "404-page",
+              "404-pages",
+              "404-template",
+              "hacktoberfest",
+              "hacktoberfest2022",
+              "html",
+              "html-css-javascript",
+              "html5",
+              "particles",
+              "particles-bg",
+              "particles-js",
+              "template",
+              "templates",
+              "tsparticles"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -42,12 +90,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles Auth Template for Websites",
+            "homepage": "https://tsparticles.github.io/auth-template/",
             "id": 283241401,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-10-13T18:26:28Z",
+            "open_issues": 0,
             "owner": "tsparticles",
             "repo": "auth-template",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "auth",
+              "authentication",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "html",
+              "html-css-javascript",
+              "javascript",
+              "particles",
+              "particles-bg",
+              "particles-js",
+              "registration",
+              "registration-forms",
+              "template",
+              "templates",
+              "templates-html",
+              "tsparticles"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -58,12 +128,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles Landing Page Template",
+            "homepage": null,
             "id": 284060939,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-10-11T08:16:10Z",
+            "open_issues": 1,
             "owner": "tsparticles",
             "repo": "landing-page-template",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "css",
+              "css3",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "html",
+              "html-css",
+              "html5",
+              "javascript",
+              "landing-page",
+              "template",
+              "tsparticles"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -74,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My personal minimal website, created with Bootstrap v5, animate.css, fontawesome and tsParticles.",
+            "homepage": null,
             "id": 286546517,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-02-21T02:25:33Z",
+            "open_issues": 0,
             "owner": "Bonn333",
             "repo": "personal-website",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -90,12 +182,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Glassmorphism Auth Template with Javascript Particles using tsParticles",
+            "homepage": null,
             "id": 407313622,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-14T19:50:53Z",
+            "open_issues": 3,
             "owner": "tsparticles",
             "repo": "glass-auth-template",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "javascript",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -106,12 +208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 419029769,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-10-19T17:48:49Z",
+            "open_issues": 0,
             "owner": "vishal-kumar-saw",
             "repo": "tsParticles-Portfolio",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         }
@@ -128,12 +235,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -144,12 +277,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -160,12 +319,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -176,12 +361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Headless UI tabs treated with a futuristic visual design",
+            "homepage": "https://tailwind-fancy-tab.vercel.app",
             "id": 391380465,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-07-31T15:09:06Z",
+            "open_issues": 0,
             "owner": "mattrothenberg",
             "repo": "tailwind-fancy-tab",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -192,12 +382,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Glassmorphism React.js Auth Template with Javascript Particles using tsParticles",
+            "homepage": "https://tsparticles.github.io/react-glass-auth-template/#/login",
             "id": 415367101,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:50:31Z",
+            "open_issues": 8,
             "owner": "tsparticles",
             "repo": "react-glass-auth-template",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "auth",
+              "authentication",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "html-css-javascript",
+              "html5",
+              "javascript",
+              "particles",
+              "particles-backgrounds",
+              "particles-bg",
+              "particles-js",
+              "react",
+              "reactjs",
+              "registration-forms",
+              "template",
+              "templates",
+              "tsparticles"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -208,12 +421,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight React-TypeScript resume web template.",
+            "homepage": null,
             "id": 288712879,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-08-21T10:46:17Z",
+            "open_issues": 0,
             "owner": "kien-dang",
             "repo": "react-resume-template",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "react",
+              "resume-template",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -224,12 +446,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles Simple Landing Page Starter for Gatsby Websites",
+            "homepage": null,
             "id": 286772815,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T13:41:53Z",
+            "open_issues": 15,
             "owner": "tsparticles",
             "repo": "gatsby-landing-page-starter",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "gatsby",
+              "gatsby-starter",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "javascript",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -240,12 +474,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React tsParticles Landing Page Template",
+            "homepage": null,
             "id": 284143822,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-07-24T18:09:58Z",
+            "open_issues": 9,
             "owner": "tsparticles",
             "repo": "react-landing-page-template",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "html",
+              "javascript",
+              "landing-page",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -256,12 +502,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles ReactJS Authentication Forms template",
+            "homepage": "https://tsparticles.github.io/react-auth-template/#/login",
             "id": 283291827,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:59:46Z",
+            "open_issues": 9,
             "owner": "tsparticles",
             "repo": "react-auth-template",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "auth",
+              "authentication",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "html-css-javascript",
+              "html5",
+              "javascript",
+              "particles",
+              "particles-backgrounds",
+              "particles-bg",
+              "particles-js",
+              "react",
+              "reactjs",
+              "registration-forms",
+              "template",
+              "templates",
+              "tsparticles"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -272,12 +541,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My personal Portfolio page made with React and TailwindCSS",
+            "homepage": "https://kochannek.com",
             "id": 311694662,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-02-07T19:59:23Z",
+            "open_issues": 0,
             "owner": "th1rst",
             "repo": "personal-portfolio-page",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "personal-website",
+              "portfolio",
+              "react",
+              "tailwindcss",
+              "tsparticles"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -288,12 +568,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☕ A hotsite to attract developers to learn programming (college activity).",
+            "homepage": "https://gustavomorinaga.github.io/HotCode/",
             "id": 289534711,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-03-12T12:13:59Z",
+            "open_issues": 0,
             "owner": "gustavomorinaga",
             "repo": "HotCode",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "css",
+              "design",
+              "gustavomorinaga",
+              "html",
+              "json-server",
+              "nodejs",
+              "react-router",
+              "react-scroll",
+              "reactjs",
+              "tsparticles",
+              "ui",
+              "ux"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -304,12 +602,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal website",
+            "homepage": "https://www.ash.xyz",
             "id": 215808866,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-19T03:18:05Z",
+            "open_issues": 0,
             "owner": "ash-xyz",
             "repo": "webpage",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "css",
+              "html",
+              "reactjs",
+              "tsparticles"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -320,12 +628,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Landing page created using React Js and ts-particles",
+            "homepage": "https://ahsan-ehtesham.github.io/React-landing-page/",
             "id": 415689664,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-10-10T20:18:53Z",
+            "open_issues": 0,
             "owner": "Ahsan-Ehtesham",
             "repo": "React-landing-page",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "html-css-javascript",
+              "landing-page",
+              "react",
+              "reactjs",
+              "tsparticles"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -336,12 +655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://imohitpant.github.io/keeper/",
             "id": 381927800,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-10-13T16:01:41Z",
+            "open_issues": 0,
             "owner": "iMohitPant",
             "repo": "keeper",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         }
@@ -358,12 +682,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -374,12 +724,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles VueJS Authentication Forms template",
+            "homepage": "https://tsparticles.github.io/vue-auth-template/#/login",
             "id": 283439085,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:40:50Z",
+            "open_issues": 12,
             "owner": "tsparticles",
             "repo": "vue-auth-template",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "authentication",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "html",
+              "html-css-javascript",
+              "javascript",
+              "particles",
+              "particles-bg",
+              "particles-bg-vue",
+              "particles-js",
+              "registration",
+              "registration-forms",
+              "template",
+              "tsparticles",
+              "vue",
+              "vuejs",
+              "vuejs-tsparticles",
+              "vuejs2"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         }
@@ -396,12 +770,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -412,12 +812,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles VueJS 3.x Authentication Forms template",
+            "homepage": null,
             "id": 317348036,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-08-27T06:40:48Z",
+            "open_issues": 11,
             "owner": "tsparticles",
             "repo": "vue3-auth-template",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "authentication",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "html",
+              "html-css-javascript",
+              "javascript",
+              "particles",
+              "particles-bg",
+              "particles-bg-vue",
+              "particles-js",
+              "registration",
+              "registration-forms",
+              "template",
+              "tsparticles",
+              "vue",
+              "vuejs",
+              "vuejs-tsparticles",
+              "vuejs3"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -428,12 +852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 419263972,
             "language": "Vue",
+            "license": null,
             "last_commit": "2021-10-20T09:24:11Z",
+            "open_issues": 0,
             "owner": "vishal-kumar-saw",
             "repo": "Personal-Website",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         }
@@ -450,12 +879,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -466,12 +921,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular tsParticles Authentication Forms template",
+            "homepage": null,
             "id": 283538593,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-30T01:49:57Z",
+            "open_issues": 12,
             "owner": "tsparticles",
             "repo": "angular-auth-template",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "angular",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "javascript",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         }
@@ -488,12 +954,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         },
@@ -504,12 +996,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles Svelte Authentication Forms template",
+            "homepage": "https://tsparticles.github.io/svelte-auth-template/",
             "id": 283967942,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:55:32Z",
+            "open_issues": 12,
             "owner": "tsparticles",
             "repo": "svelte-auth-template",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "javascript",
+              "svelte",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         }
@@ -526,12 +1029,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         }
@@ -548,12 +1077,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         }
@@ -570,12 +1125,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:15:04.949Z"
         }
@@ -584,15 +1165,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:04.949Z",
+    "last_updated": "2026-08-29T05:03:14.639Z",
     "original_repository_info": {
       "archived": false,
+      "description": "tsParticles website templates collection",
+      "homepage": null,
       "id": 282751131,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-12-03T21:21:52Z",
+      "open_issues": 5,
       "owner": "tsparticles",
       "repo": "templates",
-      "stars": 80
+      "stars": 80,
+      "topics": [
+        "angular",
+        "awesome",
+        "awesome-list",
+        "css",
+        "hacktoberfest",
+        "hacktoberfest2020",
+        "html",
+        "javascript",
+        "particles-js",
+        "particles-library",
+        "react",
+        "react-template",
+        "svelte",
+        "sveltejs",
+        "tsparticles",
+        "typescript",
+        "vue",
+        "vue3",
+        "vuejs",
+        "vuejs3"
+      ]
     },
     "original_repository_sha": "3788a7b0cae8fb20cc7f6b9d45029a186d5a0f2d",
     "enhanced_repository": "enhansome/enhansome-templates",
