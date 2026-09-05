@@ -4,7 +4,7 @@
 
 # Awesome tsParticles Websites and Templates Collection with stars
 
-[tsParticles](https://github.com/matteobruni/tsparticles) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02 is a lightweight JavaScript/TypeScript library for creating easily particles animations in your websites.
+[tsParticles](https://github.com/matteobruni/tsparticles) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02 is a lightweight JavaScript/TypeScript library for creating easily particles animations in your websites.
 
 The library has also official components for the most used JavaScript frameworks that you can see below.
 
@@ -12,7 +12,7 @@ The library has also official components for the most used JavaScript frameworks
 
 ## Vanilla JavaScript / Plain HTML (`tsparticles`)
 
-* [tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vanilla) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vanilla) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
 * [tsParticles 404 templates](https://github.com/tsparticles/404-templates) ⭐ 187 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-28
 * [tsParticles Authentication template](https://github.com/tsparticles/auth-template) ⭐ 52 | 🐛 0 | 🌐 HTML | 📅 2022-10-13
 * [tsParticles Developer landing page template](https://github.com/tsparticles/landing-page-template) ⭐ 9 | 🐛 1 | 🌐 HTML | 📅 2022-10-11
@@ -24,9 +24,9 @@ The library has also official components for the most used JavaScript frameworks
 
 ## React JS (`react-tsparticles`)
 
-* [React tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/react) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
-* [React tsParticles Create React App template](https://github.com/matteobruni/tsparticles/tree/main/templates/react) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
-* [React tsParticles TypeScript Create React App template](https://github.com/matteobruni/tsparticles/tree/main/templates/react-ts) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [React tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/react) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [React tsParticles Create React App template](https://github.com/matteobruni/tsparticles/tree/main/templates/react) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [React tsParticles TypeScript Create React App template](https://github.com/matteobruni/tsparticles/tree/main/templates/react-ts) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
 * [Tailwind Fancy Tabs](https://github.com/mattrothenberg/tailwind-fancy-tab) ⭐ 60 | 🐛 0 | 🌐 TypeScript | 📅 2021-07-31
 * [React tsParticles Glassmorphism Authentication template](https://github.com/tsparticles/react-glass-auth-template) ⭐ 14 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-02
 * [React Resume Template by kien-dang](https://github.com/kien-dang/react-resume-template) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2022-08-21
@@ -44,44 +44,44 @@ The library has also official components for the most used JavaScript frameworks
 
 ## Vue JS 2.x (`particles.vue`)
 
-* [Vue 2.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vue) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [Vue 2.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vue) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
 * [Vue 2.x tsParticles Authentication template](https://github.com/tsparticles/vue-auth-template) ⭐ 10 | 🐛 12 | 🌐 Vue | 📅 2026-09-04
 * [Vue 2.x tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue-20-kwsl6)
 
 ## Vue JS 3.x (`particles.vue3`)
 
-* [Vue 3.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vue3) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
-* [Vue 3.x tsParticles Authentication template](https://github.com/tsparticles/vue3-auth-template) ⭐ 14 | 🐛 11 | 🌐 Vue | 📅 2026-09-03
+* [Vue 3.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vue3) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [Vue 3.x tsParticles Authentication template](https://github.com/tsparticles/vue3-auth-template) ⭐ 14 | 🐛 11 | 🌐 Vue | 📅 2026-09-04
 * [Vue 3.x tsParticles Personal Portfolio Website by vishal-kumar-saw](https://github.com/vishal-kumar-saw/Personal-Website) ⭐ 1 | 🐛 0 | 🌐 Vue | 📅 2021-10-20
 * [Vue 3.x tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue3-68246)
 
 ## Angular (`ng-particles`)
 
-* [Angular tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/angular) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [Angular tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/angular) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
 * [Angular tsParticles Authentication template](https://github.com/tsparticles/angular-auth-template) ⭐ 8 | 🐛 13 | 🌐 HTML | 📅 2026-09-03
 * [Angular tsParticles CodeSandbox sample](https://codesandbox.io/s/ng-particles-2-vfxhi)
 
 ## Svelte (`svelte-particles`)
 
-* [Svelte tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/svelte) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [Svelte tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/svelte) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
 * [Svelte tsParticles Authentication template](https://github.com/tsparticles/svelte-auth-template) ⭐ 10 | 🐛 13 | 🌐 Svelte | 📅 2026-09-03
 * [Svelte tsParticles CodeSandbox sample](https://codesandbox.io/s/svelte-particles-h6lb5)
 
 ## jQuery (`jquery-particles`)
 
-* [jQuery tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/jquery) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [jQuery tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/jquery) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
 * [jQuery tsParticles CodePen sample](https://codepen.io/matteobruni/pen/dyoKePb)
 
 ## Preact JS (`preact-particles`)
 
-* [Preact tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/preact) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [Preact tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/preact) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
 * [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f) - *It's the `React` sample but if you use `Preact` you can just switch the particles library to `preact-particles` to have it working, the syntax is the same*
 
 ## Inferno JS (`inferno-particles`)
 
-* [Inferno tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/inferno) ⭐ 8,974 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
+* [Inferno tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/inferno) ⭐ 8,977 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
 * [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f) - *It's the `React` sample but if you use `Inferno` you can just switch the particles library to `inferno-particles` to have it working, the syntax is the same*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

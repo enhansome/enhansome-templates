@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -244,7 +244,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -286,7 +286,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -328,7 +328,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -691,7 +691,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -729,7 +729,7 @@
             "id": 283439085,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:02:54Z",
+            "last_commit": "2026-09-04T17:36:02Z",
             "open_issues": 12,
             "owner": "tsparticles",
             "repo": "vue-auth-template",
@@ -779,7 +779,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -817,7 +817,7 @@
             "id": 317348036,
             "language": "Vue",
             "license": null,
-            "last_commit": "2026-09-03T19:46:36Z",
+            "last_commit": "2026-09-04T15:13:20Z",
             "open_issues": 11,
             "owner": "tsparticles",
             "repo": "vue3-auth-template",
@@ -888,7 +888,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -963,7 +963,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -1038,7 +1038,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -1086,7 +1086,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -1134,7 +1134,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -1165,7 +1165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:32:42.002Z",
+    "last_updated": "2026-09-05T13:33:21.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "tsParticles website templates collection",
