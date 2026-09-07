@@ -45,13 +45,13 @@ The library has also official components for the most used JavaScript frameworks
 ## Vue JS 2.x (`particles.vue`)
 
 * [Vue 2.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vue) ⭐ 8,978 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
-* [Vue 2.x tsParticles Authentication template](https://github.com/tsparticles/vue-auth-template) ⭐ 10 | 🐛 12 | 🌐 Vue | 📅 2026-09-06
+* [Vue 2.x tsParticles Authentication template](https://github.com/tsparticles/vue-auth-template) ⭐ 10 | 🐛 12 | 🌐 Vue | 📅 2026-09-07
 * [Vue 2.x tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue-20-kwsl6)
 
 ## Vue JS 3.x (`particles.vue3`)
 
 * [Vue 3.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vue3) ⭐ 8,978 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-02
-* [Vue 3.x tsParticles Authentication template](https://github.com/tsparticles/vue3-auth-template) ⭐ 14 | 🐛 11 | 🌐 Vue | 📅 2026-09-04
+* [Vue 3.x tsParticles Authentication template](https://github.com/tsparticles/vue3-auth-template) ⭐ 14 | 🐛 11 | 🌐 Vue | 📅 2026-09-06
 * [Vue 3.x tsParticles Personal Portfolio Website by vishal-kumar-saw](https://github.com/vishal-kumar-saw/Personal-Website) ⭐ 1 | 🐛 0 | 🌐 Vue | 📅 2021-10-20
 * [Vue 3.x tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue3-68246)
 
@@ -84,4 +84,4 @@ The library has also official components for the most used JavaScript frameworks
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

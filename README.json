@@ -729,7 +729,7 @@
             "id": 283439085,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-06T12:38:35Z",
+            "last_commit": "2026-09-07T16:00:43Z",
             "open_issues": 12,
             "owner": "tsparticles",
             "repo": "vue-auth-template",
@@ -817,7 +817,7 @@
             "id": 317348036,
             "language": "Vue",
             "license": null,
-            "last_commit": "2026-09-04T15:13:20Z",
+            "last_commit": "2026-09-06T14:16:29Z",
             "open_issues": 11,
             "owner": "tsparticles",
             "repo": "vue3-auth-template",
@@ -1165,7 +1165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:48:14.676Z",
+    "last_updated": "2026-09-07T16:03:59.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "tsParticles website templates collection",
