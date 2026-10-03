@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "tsParticles demo project",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "tsParticles 404 templates",
-          "description": null,
+          "description": "tsparticles/404-templates",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -86,7 +86,7 @@
         {
           "node_type": "item",
           "title": "tsParticles Authentication template",
-          "description": null,
+          "description": "tsparticles/auth-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -124,7 +124,7 @@
         {
           "node_type": "item",
           "title": "tsParticles Developer landing page template",
-          "description": null,
+          "description": "tsparticles/landing-page-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -157,7 +157,7 @@
         {
           "node_type": "item",
           "title": "Bonn333 Portfolio",
-          "description": null,
+          "description": "Bonn333/personal-website",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -178,7 +178,7 @@
         {
           "node_type": "item",
           "title": "tsParticles Glassmorphism Authentication template",
-          "description": null,
+          "description": "tsparticles/glass-auth-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,7 +204,7 @@
         {
           "node_type": "item",
           "title": "tsParticles Portfolio Website by vishal-kumar-saw",
-          "description": null,
+          "description": "vishal-kumar-saw/tsParticles-Portfolio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -231,7 +231,7 @@
         {
           "node_type": "item",
           "title": "React tsParticles demo project",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -273,7 +273,7 @@
         {
           "node_type": "item",
           "title": "React tsParticles Create React App template",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -315,7 +315,7 @@
         {
           "node_type": "item",
           "title": "React tsParticles TypeScript Create React App template",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -357,7 +357,7 @@
         {
           "node_type": "item",
           "title": "Tailwind Fancy Tabs",
-          "description": null,
+          "description": "mattrothenberg/tailwind-fancy-tab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -378,7 +378,7 @@
         {
           "node_type": "item",
           "title": "React tsParticles Glassmorphism Authentication template",
-          "description": null,
+          "description": "tsparticles/react-glass-auth-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -417,7 +417,7 @@
         {
           "node_type": "item",
           "title": "React Resume Template by kien-dang",
-          "description": null,
+          "description": "kien-dang/react-resume-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -442,7 +442,7 @@
         {
           "node_type": "item",
           "title": "Gatsby tsParticles Landing Page Starter",
-          "description": null,
+          "description": "tsparticles/gatsby-landing-page-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,7 +470,7 @@
         {
           "node_type": "item",
           "title": "React tsParticles Landing Page template",
-          "description": null,
+          "description": "tsparticles/react-landing-page-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -498,7 +498,7 @@
         {
           "node_type": "item",
           "title": "React tsParticles Authentication template",
-          "description": null,
+          "description": "tsparticles/react-auth-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -537,7 +537,7 @@
         {
           "node_type": "item",
           "title": "React Portfolio Page by th1rst",
-          "description": null,
+          "description": "th1rst/personal-portfolio-page",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -564,7 +564,7 @@
         {
           "node_type": "item",
           "title": "HotCode Website",
-          "description": null,
+          "description": "gustavomorinaga/HotCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -598,7 +598,7 @@
         {
           "node_type": "item",
           "title": "React Template by ash-xyz",
-          "description": null,
+          "description": "ash-xyz/webpage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -624,7 +624,7 @@
         {
           "node_type": "item",
           "title": "React Landing Page by AhsanEhtesham",
-          "description": null,
+          "description": "Ahsan-Ehtesham/React-landing-page",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -651,7 +651,7 @@
         {
           "node_type": "item",
           "title": "React Notes Keeper App",
-          "description": null,
+          "description": "iMohitPant/keeper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -678,7 +678,7 @@
         {
           "node_type": "item",
           "title": "Vue 2.x tsParticles demo project",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -720,7 +720,7 @@
         {
           "node_type": "item",
           "title": "Vue 2.x tsParticles Authentication template",
-          "description": null,
+          "description": "tsparticles/vue-auth-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -729,7 +729,7 @@
             "id": 283439085,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-30T23:49:33Z",
+            "last_commit": "2026-10-02T20:21:46Z",
             "open_issues": 12,
             "owner": "tsparticles",
             "repo": "vue-auth-template",
@@ -766,7 +766,7 @@
         {
           "node_type": "item",
           "title": "Vue 3.x tsParticles demo project",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -808,7 +808,7 @@
         {
           "node_type": "item",
           "title": "Vue 3.x tsParticles Authentication template",
-          "description": null,
+          "description": "tsparticles/vue3-auth-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -817,7 +817,7 @@
             "id": 317348036,
             "language": "Vue",
             "license": null,
-            "last_commit": "2026-09-30T23:58:50Z",
+            "last_commit": "2026-10-02T20:22:05Z",
             "open_issues": 11,
             "owner": "tsparticles",
             "repo": "vue3-auth-template",
@@ -848,7 +848,7 @@
         {
           "node_type": "item",
           "title": "Vue 3.x tsParticles Personal Portfolio Website by vishal-kumar-saw",
-          "description": null,
+          "description": "vishal-kumar-saw/Personal-Website",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -875,7 +875,7 @@
         {
           "node_type": "item",
           "title": "Angular tsParticles demo project",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -917,7 +917,7 @@
         {
           "node_type": "item",
           "title": "Angular tsParticles Authentication template",
-          "description": null,
+          "description": "tsparticles/angular-auth-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -950,7 +950,7 @@
         {
           "node_type": "item",
           "title": "Svelte tsParticles demo project",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -992,7 +992,7 @@
         {
           "node_type": "item",
           "title": "Svelte tsParticles Authentication template",
-          "description": null,
+          "description": "tsparticles/svelte-auth-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1025,7 +1025,7 @@
         {
           "node_type": "item",
           "title": "jQuery tsParticles demo project",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1073,7 +1073,7 @@
         {
           "node_type": "item",
           "title": "Preact tsParticles demo project",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1121,7 +1121,7 @@
         {
           "node_type": "item",
           "title": "Inferno tsParticles demo project",
-          "description": null,
+          "description": "tsparticles/tsparticles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1165,7 +1165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:22:07.479Z",
+    "last_updated": "2026-10-03T05:10:06.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "tsParticles website templates collection",
