@@ -13,7 +13,7 @@ The library has also official components for the most used JavaScript frameworks
 ## Vanilla JavaScript / Plain HTML (`tsparticles`)
 
 * [tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vanilla) ⭐ 8,987 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-05
-* [tsParticles 404 templates](https://github.com/tsparticles/404-templates) ⭐ 190 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-24
+* [tsParticles 404 templates](https://github.com/tsparticles/404-templates) ⭐ 191 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-24
 * [tsParticles Authentication template](https://github.com/tsparticles/auth-template) ⭐ 52 | 🐛 0 | 🌐 HTML | 📅 2022-10-13
 * [tsParticles Developer landing page template](https://github.com/tsparticles/landing-page-template) ⭐ 9 | 🐛 1 | 🌐 HTML | 📅 2022-10-11
 * [Bonn333 Portfolio](https://github.com/Bonn333/personal-website) ⭐ 9 | 🐛 0 | 🌐 HTML | 📅 2021-02-21
